@@ -1,0 +1,15 @@
+https://www.youtube.com/watch?v=DAWWf7q8sqM
+
+&t=1h57m
+-> gõ vào thanh input -> trang mới nhận đc dữ liệu
+
+tool, api cần thiết
+https://developers.google.com/custom-search/docs/overview
+https://cse.google.com.vn/cse/create/new
+
+&t=2h10m - google
+
+dùng fetch -> custom hook bên search
+Mock API Call
+
+&t=3h10m - deploy
