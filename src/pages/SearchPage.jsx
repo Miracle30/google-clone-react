@@ -79,8 +79,7 @@ function SearchPage() {
             {term && (
                 <div className="searchPage_results">
                     <p className="searchPage_resultCount">
-                        Khoảng {data?.searchInformation.formattedTotalResults} kết quả 
-                        ({data?.searchInformation.formattedSearchTime} giây) 
+                        Khoảng {data?.searchInformation.formattedTotalResults} kết quả ({data?.searchInformation.formattedSearchTime} giây) 
                         cho {term}
                     </p>
 
